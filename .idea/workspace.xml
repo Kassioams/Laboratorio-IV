@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96d5c2b-4aa4-4a3c-ae58-ae2b8d16f79a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RDACjbyxo4S7pcxzbR0cvI1f0l" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testesLab4" />
+      <recent name="lab4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GrupoTest.guardaAluno">
+    <configuration name="AlunoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Kassio_Silva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesLab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesLab4" />
+      <option name="MAIN_CLASS_NAME" value="testesLab4.AlunoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlunoTest.testaAlunoNomeVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Kassio_Silva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesLab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesLab4" />
+      <option name="MAIN_CLASS_NAME" value="testesLab4.AlunoTest" />
+      <option name="METHOD_NAME" value="testaAlunoNomeVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testeMatriculaVazia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Kassio_Silva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesLab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesLab4" />
+      <option name="MAIN_CLASS_NAME" value="testesLab4.ControllerTest" />
+      <option name="METHOD_NAME" value="testeMatriculaVazia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrupoTest.guardaAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Kassio_Silva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesLab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesLab4" />
+      <option name="MAIN_CLASS_NAME" value="testesLab4.GrupoTest" />
+      <option name="METHOD_NAME" value="guardaAluno" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrupoTest.testaToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Kassio_Silva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesLab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesLab4" />
+      <option name="MAIN_CLASS_NAME" value="testesLab4.GrupoTest" />
+      <option name="METHOD_NAME" value="testaToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GrupoTest.guardaAluno" />
+        <item itemvalue="JUnit.GrupoTest.testaToString" />
+        <item itemvalue="JUnit.AlunoTest" />
+        <item itemvalue="JUnit.AlunoTest.testaAlunoNomeVazio" />
+        <item itemvalue="JUnit.ControllerTest.testeMatriculaVazia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96d5c2b-4aa4-4a3c-ae58-ae2b8d16f79a" name="Default Changelist" comment="" />
+      <created>1569191166992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569191166992</updated>
+    </task>
+    <servers />
+  </component>
+</project>
